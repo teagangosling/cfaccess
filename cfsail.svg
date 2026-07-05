@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 283.5 283.5">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #193880;
+      }
+
+      .st1 {
+        fill: #6685cc;
+      }
+
+      .st2 {
+        fill: #295acc;
+      }
+
+      .st3 {
+        fill: #b35d12;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1">
+    <rect class="st2" x="-.1" width="283.7" height="284.5"/>
+    <rect class="st0" x="-.1" width="283.7" height="284.5"/>
+  </g>
+  <g id="Sail">
+    <polygon class="st3" points="69.5 241.1 9.3 192.1 129.7 192.1 69.5 241.1"/>
+    <polygon class="st3" points="243.1 245 211.9 192.1 274.2 192.1 243.1 245"/>
+    <rect class="st3" x="76.7" y="192.1" width="163.2" height="43.8"/>
+    <circle class="st2" cx="82.5" cy="258.1" r="41.5"/>
+    <circle class="st2" cx="23" cy="258.1" r="41.5"/>
+    <circle class="st2" cx="201.8" cy="258.1" r="41.5"/>
+    <circle class="st2" cx="142.4" cy="258.1" r="41.5"/>
+    <circle class="st2" cx="266.7" cy="258.1" r="41.5"/>
+    <rect class="st3" x="118.3" y="14.7" width="5.6" height="181.9"/>
+    <rect class="st3" x="123.9" y="138.1" width="137.3" height="8"/>
+    <polygon class="st3" points="123.9 14.7 123.9 139.3 261.2 138.3 123.9 14.7"/>
+    <circle class="st1" cx="243.3" cy="43" r="33.2"/>
+  </g>
+</svg>
